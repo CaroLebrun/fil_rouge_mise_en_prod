@@ -1,0 +1,6 @@
+
+**/*.quarto_ipynb
+/.quarto/
+*.html
+*_files
+_site/
